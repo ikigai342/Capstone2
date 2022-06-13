@@ -1,4 +1,4 @@
-# Capstone Project 2
+# Task Manager
 Task management system written in python, current functionality is registering user adding tasks and viewing tasks.
 
 ### Current functionality
